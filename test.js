@@ -1,1 +1,0 @@
-console.log("sharib husain hello ")
