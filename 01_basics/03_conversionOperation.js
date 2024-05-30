@@ -55,3 +55,6 @@ console.log(typeof convertString)
 console.log(typeof isString)
 
 console.log(isString)
+
+
+// *********************** Operations ***********************
