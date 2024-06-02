@@ -45,16 +45,77 @@ console.log(boleanLog_in)
 
 */
 
-let convertString = 333
+// let convertString = 333
 
-let isString = String(convertString)
+// let isString = String(convertString)
 
 
-console.log(typeof convertString)
+// console.log(typeof convertString)
 
-console.log(typeof isString)
+// console.log(typeof isString)
 
-console.log(isString)
+// console.log(isString)
 
 
 // *********************** Operations ***********************
+
+// let value  = 33
+
+// let negvaluve = -value
+
+// console.log(negvaluve)
+
+
+// console.log(2+2)
+
+// console.log(2-2)
+
+// console.log(2*2)
+
+// console.log(2/2)
+
+// console.log(2**2)
+
+// console.log(2%2)
+
+
+
+// let str1 = "Hello"
+
+// let str2 = " Sharib"
+
+
+// let str3 = str1+str2
+
+// console.log(str3)
+
+// console.log("1"+2)
+
+// console.log(1+"2")
+
+// console.log("1"+2+2)
+
+// console.log(2+2+"1")
+
+
+
+console.log(+true);
+
+console.log(+"")
+
+
+let num1,mum2,num3
+
+num1  = num2 = num3 = 2+2
+
+
+let gamecounter = 100
+
+
+gamecounter++
+
+++gamecounter
+
+console.log(gamecounter)
+
+
