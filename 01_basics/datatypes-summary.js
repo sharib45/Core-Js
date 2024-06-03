@@ -26,10 +26,10 @@ console.log(id === anotherId);
 
 // Array, Objects, Functions
 
-
+//Array
 let superhero = ["shaktiman","doda","nagraj"]
 
-
+//object
 let myprofileobj={
 
   name :"sharib",
@@ -38,6 +38,8 @@ let myprofileobj={
 
 }
 
+
+//function
 
 let myfunction = function(){
 
