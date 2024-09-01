@@ -48,3 +48,44 @@ console.log("hello world")
 
 
 }
+
+
+// stack (primativ)  heap(non primative)
+
+
+//stack example
+let myyoutubename= "sharib"
+
+let anothername = myyoutubename
+
+anothername="sharibshahid"
+
+
+console.log(myyoutubename)
+
+console.log(anothername)
+
+
+
+//heap example
+
+
+const obj1 ={
+
+
+city :"delhi",
+pincode:11
+
+
+
+}
+
+let obj2 = obj1
+
+
+obj2.city="mumbai"
+obj2.pincode22
+
+
+console.log(obj1.city)
+console.log(obj2.city)
